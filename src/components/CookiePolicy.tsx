@@ -1,8 +1,10 @@
 import { Link } from 'react-router';
+import ScrollToTop from './ScrollToTop';
 
 const CookiesPolicy = () => {
     return (
         <div className="min-h-screen  text-white bg-titan-50 font-inter">
+            <ScrollToTop/>
             <main className="pt-24 pb-16">
                 <div className="container mx-auto px-4 sm:px-6 lg:px-12">
                     <div className="max-w-4xl mx-auto bg-gradient-to-tl from-titan-100 via-titan-800 to-titan-950 rounded-3xl shadow-2xl p-10">
