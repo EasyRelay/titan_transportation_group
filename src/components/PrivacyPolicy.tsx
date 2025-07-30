@@ -72,7 +72,7 @@ const PrivacyPolicy = () => {
                                 <li>Object to or restrict certain data processing</li>
                                 <li>Withdraw consent for data usage (where applicable)</li>
                             </ul>
-                            <p>To exercise these rights, contact us at <strong>azfreightsolution@gmail.com</strong>.</p>
+                            <p>To exercise these rights, contact us at <strong>dispatch@247ttg.com</strong>.</p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">7. Security of Your Information</h2>
                             <p className='text-gray-100'>
