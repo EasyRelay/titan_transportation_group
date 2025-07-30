@@ -62,6 +62,7 @@ const CookiesPolicy = () => {
                                 We may revise this policy occasionally. Updates will be posted here. Continued use implies consent to changes.
                             </p>
 
+            
                             <h2>6. Contact Us</h2>
                             <p>If you have any questions, contact us at:</p>
 
