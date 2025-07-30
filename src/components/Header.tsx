@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, Phone } from 'lucide-react';
-import logo from "/public/image copy.png"
+import logo from "/image copy.png"
 import { Link } from 'react-router';
 
 const Header = () => {

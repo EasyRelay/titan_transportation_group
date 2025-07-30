@@ -1,6 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { ArrowRight, Shield, Clock, MapPin } from 'lucide-react';
-import bgImage from "/public/image_2025-07-30_16-21-57.png"
+import { Shield, Clock, MapPin } from 'lucide-react';
 
 const Hero = () => {
   const titleRef = useRef<HTMLHeadingElement>(null);
@@ -41,7 +40,7 @@ const Hero = () => {
       {/* 📸 Blur qilingan orqa fon rasmi */}
       <div className="absolute inset-0 -z-20 ">
         <img
-          src="/public/image_2025-07-30_16-21-57.png"
+          src="/image_2025-07-30_16-21-57.png"
           alt="Background"
           className="w-full h-full object-cover "
         />
