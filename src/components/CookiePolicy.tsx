@@ -21,7 +21,7 @@ const CookiesPolicy = () => {
 
                         <section className="space-y-6 text-gray-100 prose prose-invert prose-lg max-w-none">
                             <p className="text-white text-xl">
-                                This Cookie Policy explains how Titan Transportation Group LLC (“we,” “our,” or “us”) uses cookies and similar technologies when you visit our website or use our services, including tools integrated with third-party platforms such as RingCentral.
+                                This Cookie Policy explains how Titan Transport Group LLC (“we,” “our,” or “us”) uses cookies and similar technologies when you visit our website or use our services, including tools integrated with third-party platforms such as RingCentral.
                             </p>
 
                             <h2>1. What Are Cookies?</h2>
@@ -69,7 +69,7 @@ const CookiesPolicy = () => {
                             <p>If you have any questions, contact us at:</p>
 
                             <div className="bg-black/20 p-6 rounded-xl border border-white/10 mt-4 text-white text-sm">
-                                <p className="font-semibold mb-1">Titan Transportation Group LLC</p>
+                                <p className="font-semibold mb-1">Titan Transport Group LLC</p>
                                 <p>135 Settlers Drive Naperville, IL 60565</p>
                                 <p>Phone: (773) 7980895</p>
                                 <p>Email: <a href="mailto:dispatch@247ttg.com" className="text-blue-400 hover:underline">dispatch@247ttg.com</a></p>
