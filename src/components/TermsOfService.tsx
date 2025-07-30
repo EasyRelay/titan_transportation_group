@@ -25,10 +25,10 @@ function TermsOfService() {
                             </p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">1. Acceptance of Terms</h2>
-                            <p className='text-gray-100'>These Terms form a binding agreement between you (the user) and A TO Z FREIGHT SOLUTION LLC. Use of our website or services constitutes your acceptance of these Terms and our Privacy Policy.</p>
+                            <p className='text-gray-100'>These Terms form a binding agreement between you (the user) and  Titan Transportation Group LLC. Use of our website or services constitutes your acceptance of these Terms and our Privacy Policy.</p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">2. Services Overview</h2>
-                            <p className='text-gray-100'>A TO Z FREIGHT SOLUTION LLC provides logistics, freight coordination, shipment tracking, and digital communication tools. Certain services may be integrated with third-party platforms such as RingCentral. We reserve the right to modify, suspend, or discontinue any feature at any time without notice.</p>
+                            <p className='text-gray-100'> Titan Transportation Group LLC provides logistics, freight coordination, shipment tracking, and digital communication tools. Certain services may be integrated with third-party platforms such as RingCentral. We reserve the right to modify, suspend, or discontinue any feature at any time without notice.</p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">3. Eligibility</h2>
                             <ul className="list-disc pl-6 space-y-2 text-gray-100 marker:text-blue-400">
@@ -72,7 +72,7 @@ function TermsOfService() {
                             </ul>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">10. Indemnity</h2>
-                            <p className='text-gray-100'>You agree to indemnify and hold harmless A TO Z FREIGHT SOLUTION LLC and its affiliates from any claims resulting from your use of our services or breach of these Terms.</p>
+                            <p className='text-gray-100'>You agree to indemnify and hold harmless  Titan Transportation Group LLC and its affiliates from any claims resulting from your use of our services or breach of these Terms.</p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">11. Governing Law</h2>
                             <p className='text-gray-100'>These Terms are governed by the laws of Delaware, USA. Any disputes shall be handled in the courts of the State of Ohio, USA.</p>
