@@ -86,9 +86,9 @@ const Footer = () => {
               <p>&copy; 2024 Titan Transport Group LLC. All rights reserved.</p>
             </div>
             <div className="text-gray-200 text-sm space-x-4">
-              <a href='/privacy_policy'><span>Privacy Policy</span></a>
-              <a href='/terms_of_service'><span>Terms of Service</span></a>
-              <a href='/cookie_policy'><span>Cookie Policy</span></a>
+              <Link to='/privacy_policy'><span>Privacy Policy</span></Link>
+              <Link to='/terms_of_service'><span>Terms of Service</span></Link>
+              <Link to='/cookie_policy'><span>Cookie Policy</span></Link>
             </div>
           </div>
         </div>
