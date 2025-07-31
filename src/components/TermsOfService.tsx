@@ -1,4 +1,4 @@
-import { Link } from 'react-router';
+// import { Link } from 'react-router';
 import ScrollToTop from './ScrollToTop';
 
 function TermsOfService() {
@@ -8,12 +8,12 @@ function TermsOfService() {
             <main className="pt-24">
                 <div className="container mx-auto px-4 lg:px-8 py-16">
                     <div className="max-w-4xl mx-auto bg-gradient-to-tl from-titan-100 via-titan-800 to-titan-950 rounded-3xl p-8 shadow-lg">
-                        <Link
+                        {/* <Link
                             to="/"
                             className="inline-flex items-center text-titan-100 hover:text-green-400 transition-colors duration-300 font-medium mb-8"
                         >
                             ← Back to Home
-                        </Link>
+                        </Link> */}
 
                         <h1 className="text-5xl md:text-6xl font-extrabold bg-gradient-to-r from-titan-50 to-titan-500 bg-clip-text text-transparent mb-12">
                             Terms of Service

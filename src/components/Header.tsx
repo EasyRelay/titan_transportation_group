@@ -1,12 +1,13 @@
 import { useState, useEffect } from 'react';
 import { Menu, X, Phone } from 'lucide-react';
 import logo from "/image_copy.png"
-import { Link } from 'react-router';
+import { Link, useLocation } from 'react-router';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isScrolled, setIsScrolled] = useState(false);
-  const [isHome, setIsHome] = useState(window.location.pathname.trim() === "/")
+  const thisPath = useLocation().pathname;
+  const isHome = thisPath === '/';
 
   useEffect(() => {
     const handleScroll = () => {
@@ -15,17 +16,6 @@ const Header = () => {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
-
-
-  useEffect(() => {
-    // console.log('otdi');
-
-    setIsHome(window.location.pathname.trim() === "/");
-    // console.log(isHome);
-
-  }, [window.location])
-
-
 
   return (
     <header className={`fixed w-full z-50 duration-300 bg-white shadow-lg
@@ -57,7 +47,7 @@ const Header = () => {
           {/* Desktop Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
             {!isHome ?
-              <Link to="/" onClick={() => setIsHome(true)} className={`transition-colors hover:text-blue-600 text-black
+              <Link to="/" className={`transition-colors hover:text-blue-600 text-black
                 }`}>
                 Home
               </Link>

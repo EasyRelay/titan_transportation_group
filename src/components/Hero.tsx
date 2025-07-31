@@ -40,7 +40,7 @@ const Hero = () => {
       {/* 📸 Blur qilingan orqa fon rasmi */}
       <div className="absolute inset-0 -z-20 ">
         <img
-          src="/image_2025-07-30_16-21-57.png"
+          src="/truck_image.png"
           alt="Background"
           className="w-full h-full object-cover "
         />

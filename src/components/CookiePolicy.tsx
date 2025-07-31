@@ -1,4 +1,4 @@
-import { Link } from 'react-router';
+// import { Link } from 'react-router';
 import ScrollToTop from './ScrollToTop';
 
 const CookiesPolicy = () => {
@@ -8,12 +8,12 @@ const CookiesPolicy = () => {
             <main className="pt-24 pb-16">
                 <div className="container mx-auto px-4 sm:px-6 lg:px-12">
                     <div className="max-w-4xl mx-auto bg-gradient-to-tl from-titan-100 via-titan-800 to-titan-950 rounded-3xl shadow-2xl p-10">
-                        <Link
+                        {/* <Link
                             to="/"
                             className="inline-flex items-center text-titan-500 hover:text-white transition mb-8 text-sm font-medium"
                         >
                             ← Back to Home
-                        </Link>
+                        </Link> */}
 
                         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold bg-gradient-to-r from-titan-50 to-titan-500 bg-clip-text text-transparent mb-12">
                             Cookie Policy
