@@ -31,14 +31,14 @@ const Header = () => {
             </div>
             <div className='flex flex-col pt-1'>
               <ul className={`space-y-0 text-black}`}>
-                <li className={`text-md  font-bold transition-colors }`}>
-                  Titan
+                <li className={`text-md  font-bold text-slate-400 transition-colors }`}>
+                  TITAN
                 </li>
                 <li className={`text-md font-bold transition-colors }`}>
-                  Transport
+                  TRANSPORT
                 </li>
                 <li className={`text-md font-bold transition-colors }`}>
-                  Group
+                  GROUP
                 </li>
               </ul>
             </div>
