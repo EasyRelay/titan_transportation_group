@@ -29,6 +29,7 @@ const Header = () => {
                 <img src={logo} alt="logo" className='h-full scale-110 brightness-105' />
               </div>
             </div>
+            <hr className='bg-slate-400 h-16 w-0.5'/>
             <div className='flex flex-col pt-1'>
               <ul className={`space-y-0 text-black}`}>
                 <li className={`text-md  font-bold text-slate-400 transition-colors }`}>
