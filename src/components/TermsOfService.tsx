@@ -21,14 +21,14 @@ function TermsOfService() {
 
                         <div className="prose prose-invert prose-lg max-w-none text-gray-300 leading-relaxed">
                             <p className="text-xl mb-8 text-gray-100">
-                                Welcome to Titan Transportation Group LLC. By accessing our website or using our logistics and communication services—including integrations with platforms like RingCentral—you agree to the following Terms of Service. If you do not agree to these terms, please discontinue use of our services immediately.
+                                Welcome to Titan Transport Group LLC. By accessing our website or using our logistics and communication services—including integrations with platforms like RingCentral—you agree to the following Terms of Service. If you do not agree to these terms, please discontinue use of our services immediately.
                             </p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">1. Acceptance of Terms</h2>
-                            <p className='text-gray-100'>These Terms form a binding agreement between you (the user) and A TO Z FREIGHT SOLUTION LLC. Use of our website or services constitutes your acceptance of these Terms and our Privacy Policy.</p>
+                            <p className='text-gray-100'>These Terms form a binding agreement between you (the user) and  Titan Transport Group LLC. Use of our website or services constitutes your acceptance of these Terms and our Privacy Policy.</p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">2. Services Overview</h2>
-                            <p className='text-gray-100'>A TO Z FREIGHT SOLUTION LLC provides logistics, freight coordination, shipment tracking, and digital communication tools. Certain services may be integrated with third-party platforms such as RingCentral. We reserve the right to modify, suspend, or discontinue any feature at any time without notice.</p>
+                            <p className='text-gray-100'> Titan Transport Group LLC provides logistics, freight coordination, shipment tracking, and digital communication tools. Certain services may be integrated with third-party platforms such as RingCentral. We reserve the right to modify, suspend, or discontinue any feature at any time without notice.</p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">3. Eligibility</h2>
                             <ul className="list-disc pl-6 space-y-2 text-gray-100 marker:text-blue-400">
@@ -56,7 +56,7 @@ function TermsOfService() {
 
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">6. Intellectual Property</h2>
-                            <p className='text-gray-100'>All content, branding, software, and materials on this site are the exclusive property of A TO Z FREIGHT SOLUTION LLC or our partners. Reproduction without permission is prohibited.</p>
+                            <p className='text-gray-100'>All content, branding, software, and materials on this site are the exclusive property of  Titan Transport Group LLC or our partners. Reproduction without permission is prohibited.</p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">7. Account Suspension and Termination</h2>
                             <p className='text-gray-100'>We reserve the right to suspend or terminate accounts violating these Terms or engaging in abuse. Notifications will be sent via email or in-platform.</p>
@@ -72,7 +72,7 @@ function TermsOfService() {
                             </ul>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">10. Indemnity</h2>
-                            <p className='text-gray-100'>You agree to indemnify and hold harmless A TO Z FREIGHT SOLUTION LLC and its affiliates from any claims resulting from your use of our services or breach of these Terms.</p>
+                            <p className='text-gray-100'>You agree to indemnify and hold harmless  Titan Transport Group LLC and its affiliates from any claims resulting from your use of our services or breach of these Terms.</p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">11. Governing Law</h2>
                             <p className='text-gray-100'>These Terms are governed by the laws of Delaware, USA. Any disputes shall be handled in the courts of the State of Ohio, USA.</p>
@@ -83,7 +83,7 @@ function TermsOfService() {
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">13. Contact Information</h2>
                             <p className='text-gray-100'>For any questions about these Terms of Service, please contact us at:</p>
                             <div className="bg-black/20 p-6 rounded-xl border border-white/10 mt-4 text-white text-sm">
-                                <p className="font-semibold mb-1">Titan Transportation Group LLC</p>
+                                <p className="font-semibold mb-1">Titan Transport Group LLC</p>
                                 <p>135 Settlers Drive Naperville, IL 60565</p>
                                 <p>Phone: (773) 7980895</p>
                                 <p>Email: <a href="mailto:dispatch@247ttg.com" className="text-blue-400 hover:underline">dispatch@247ttg.com</a></p>

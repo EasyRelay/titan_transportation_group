@@ -22,7 +22,7 @@ const PrivacyPolicy = () => {
 
                         <div className="prose prose-invert prose-lg max-w-none text-gray-300 leading-relaxed">
                             <p className="text-xl mb-8 text-gray-100">
-                                Titan Transportation Group LLC, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services, including integrations with third-party communication platforms such as RingCentral.
+                                Titan Transport Group LLC, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services, including integrations with third-party communication platforms such as RingCentral.
                             </p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">1. Information We Collect</h2>
@@ -72,7 +72,7 @@ const PrivacyPolicy = () => {
                                 <li>Object to or restrict certain data processing</li>
                                 <li>Withdraw consent for data usage (where applicable)</li>
                             </ul>
-                            <p>To exercise these rights, contact us at <strong>azfreightsolution@gmail.com</strong>.</p>
+                            <p>To exercise these rights, contact us at <strong>dispatch@247ttg.com</strong>.</p>
 
                             <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">7. Security of Your Information</h2>
                             <p className='text-gray-100'>
@@ -93,7 +93,7 @@ const PrivacyPolicy = () => {
                             <p className='text-gray-100'>If you have any questions about this Privacy Policy, contact us at:</p>
 
                              <div className="bg-black/20 p-6 rounded-xl border border-white/10 mt-4 text-white text-sm">
-                                <p className="font-semibold mb-1">Titan Transportation Group LLC</p>
+                                <p className="font-semibold mb-1">Titan Transport Group LLC</p>
                                 <p>135 Settlers Drive Naperville, IL 60565</p>
                                 <p>Phone: (773) 7980895</p>
                                 <p>Email: <a href="mailto:dispatch@247ttg.com" className="text-blue-400 hover:underline">dispatch@247ttg.com</a></p>

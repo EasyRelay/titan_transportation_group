@@ -14,7 +14,7 @@ const Footer = () => {
                 <img src={logo} alt="logo" className='h-full scale-110 brightness-105' />
               </div>
               <div className='flex'>
-                <h3 className="text-sm font-bold">Titan <br /> Transportation <br /> Group </h3>
+                <h3 className="text-sm font-bold">Titan <br /> Transport <br /> Group </h3>
                 <p className='mt-11 -ml-10 text-[10px]'>LLC</p>
               </div>
             </div>

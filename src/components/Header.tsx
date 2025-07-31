@@ -35,7 +35,7 @@ const Header = () => {
                   Titan
                 </li>
                 <li className={`text-md font-bold transition-colors }`}>
-                  Transportation
+                  Transport
                 </li>
                 <li className={`text-md font-bold transition-colors }`}>
                   Group
